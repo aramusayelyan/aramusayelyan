@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aramusayelyan
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python,html & css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me musayelyanara6@gmail.com,Tel.+37455164545
 
